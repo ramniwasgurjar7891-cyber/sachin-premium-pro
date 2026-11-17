@@ -31,7 +31,7 @@ jobs:
           
       - name: Extract Android project
         run: |
-          unzip -q SachinPremiumProAndroid_Project.zip
+          unzip -q SachinPremiumPro_NoKey_SameRUX.zip
           ls -la SachinPremiumProAndroid
 
       - name: Set up Gradle
